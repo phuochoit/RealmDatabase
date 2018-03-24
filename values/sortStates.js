@@ -1,0 +1,2 @@
+export const  SORT_ASCEDING = "SORT_ASCEDING";
+export const  SORT_DESCEDING = "SORT_DESCEDING";
